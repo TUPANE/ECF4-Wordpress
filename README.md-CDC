@@ -20,14 +20,9 @@ Les besoins détailler de ce site sont:
                     							##III-Les solutions proposés.
 		    
 Afin de répondre au mieux les besoins de cette société : j'ai décide de réaliser le site avec l'éditeur de code Visual studio code et un systéme de gestion de contenu Wordpress.
-Ainsi, on aura : 
-				a) Les différents pages
-					-Accueil
-					-Sport
-					-Culture
-				b)Les contenu de chaque pages
-					-Accueil : 6 images (sport/culture) et 1 paragraphe (présentation du "Le Pays"
-					-Sport : des images actualisée automatiquement
-					-Culture : des images actualisée automatiquement
+Ainsi, on aura : trois grande pages (Accueil/Sport/Culture) et dans chacunes de ces pages des contenus : -Accueil 6 images (sport/culture) et 1 paragraphe (présentation du "Le Pays";
+													 -Sport : des images actualisée automatiquement;
+													 -Culture : des images actualisée automatiquement;
+Par ailleur tout ses contenus seront générer à partir de Fakerpress, autrement dit une manière propre de générer du faux contenu dans WordPress				
 					
 								
