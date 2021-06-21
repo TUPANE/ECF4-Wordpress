@@ -1,0 +1,134 @@
+/*
+Theme Name: Le pays
+Theme URI: https://capitainewp.io
+Author: Marie-Claude T
+Author URI: https://dysign.fr
+Description: Evaluation 4 !
+Requires at least: WordPress 5.0
+Version: 1.0
+*/
+
+
+.bas {
+    display: flex !important;
+    width: 100%;
+}
+
+.footerazaa {
+    width: 33%;
+    min-height: 50px;
+    padding: 40px;
+    background-color: red    
+}
+
+.menu li {
+    display: inline;
+    margin-right: 15px;
+    color: white;
+}
+
+.logo {
+    display: block;
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* .title {
+    color: white;
+    background-color: red;
+    text-align: center;
+    padding: 30px;
+} */
+
+.spr {
+    color: rgb(225, 102, 65);
+}
+
+/* #content {
+    display: grid;
+    grid-template-columns: repeat(3,auto);
+} */
+
+/* #content:first-child {
+    display: grid;
+    
+} */
+
+/*Page front-page*/
+#JouL {
+    color: brown;
+    text-align: center;
+}
+
+#nom {
+    text-align: center;
+    font-family: Arial;
+    color: brown;
+}
+
+.sio {
+    background-color: white;
+}
+
+
+
+/*Page header*/
+
+.cher {
+    font-weight: bolder;
+}
+
+
+/*Page category*/
+.boul {
+    background-color: gainsboro;
+    margin-top: 100px;
+    width: 980px;
+    padding-bottom: 0px;
+    border: 3px ridge black; 
+    color: black;
+    font-size: 12px;
+    border-radius: 15px;
+}
+
+
+.goch {
+    font-size: 15px;
+    color: darkolivegreen;
+    text-transform: uppercase;
+}
+
+.cote {
+    background-color: moccasin;
+    float: right;
+    margin-bottom: 80px;
+    border: 3px ridge black;
+    border-radius: 15px;
+    padding: 10px;   
+}
+
+.cate {
+    text-align: center;
+}
+
+.arc {
+    background-color: rosybrown;
+    width: 50%;
+    height: 80px;
+    position: 500px;
+    margin: 0 auto;
+    margin-left: 500px;
+    border-radius: 3px;   
+}
+.col {
+    float: center;
+} 
+
+
+
+
+
+
+
+
